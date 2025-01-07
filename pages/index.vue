@@ -55,7 +55,7 @@
         <div
           class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 lg:gap-4 md:gap-3 gap-2 lg:p-4 md:p-3 p-2">
           <div
-            class="border-solid border-2 border-[#1B4B36] w-[406px] h-[350px] rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
+            class="border-solid border-2 border-[#1B4B36] w-[406px] h-auto rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
             <!-- lg:w-[406px] lg:h-[350px] md:[400px] md:h-[340px] w-[350px] h-[300px] -->
             <h2
               class="lg:text-4xl md:text-2xl text-xl text-[#1B4B36] font-semibold mt-5 group-hover:text-[#EBFF3D]">
@@ -70,7 +70,7 @@
             </p>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] w-[406px] h-[350px] rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
+            class="border-solid border-2 border-[#1B4B36] w-[406px] h-h-auto rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
             <h2
               class="lg:text-4xl md:text-2xl text-xl text-[#1B4B36] font-semibold mt-5 group-hover:text-[#EBFF3D]">
               স্বাস্থ্য পর্যবেক্ষণ সুবিধা
@@ -84,7 +84,7 @@
             </p>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] w-[406px] h-[350px] rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
+            class="border-solid border-2 border-[#1B4B36] w-[406px] h-auto rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
             <h2
               class="lg:text-4xl md:text-2xl text-xl text-[#1B4B36] font-semibold mt-5 group-hover:text-[#EBFF3D]">
               ফিটনেস ট্র্যাকিং
@@ -97,7 +97,7 @@
             </p>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] w-[406px] h-[350px] rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
+            class="border-solid border-2 border-[#1B4B36] w-[406px] h-auto rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
             <h2
               class="lg:text-4xl md:text-2xl text-xl text-[#1B4B36] font-semibold mt-5 group-hover:text-[#EBFF3D]">
               স্মার্ট নোটিফিকেশন
@@ -109,7 +109,7 @@
             </p>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] w-[406px] h-[350px] rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
+            class="border-solid border-2 border-[#1B4B36] w-[406px] h-auto rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
             <h2
               class="lg:text-4xl md:text-2xl text-xl text-[#1B4B36] font-semibold mt-5 group-hover:text-[#EBFF3D]">
               দীর্ঘস্থায়ী ব্যাটারি লাইফ
@@ -120,7 +120,7 @@
             </p>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] w-[406px] h-[350px] rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
+            class="border-solid border-2 border-[#1B4B36] w-[406px] h-auto rounded-tl-[35px] rounded-br-[35px] px-3 hover:bg-[#1B4B36] hover:text-white group transition duration-1000 ease-in-out">
             <h2
               class="lg:text-4xl md:text-2xl text-xl text-[#1B4B36] font-semibold mt-5 group-hover:text-[#EBFF3D]">
               মিউজিক এবং ক্যামেরা নিয়ন্ত্রণ
@@ -152,7 +152,7 @@
         <div
           class="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 lg:gap-4 md:gap-3 gap-2 lg:p-4 md:p-3 p-2">
           <div
-            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-[325px] md:w-[500px] md:h-[450px] w-[450px] h-[350px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-auto md:w-[500px] md:h-auto w-[450px] h-auto px-5 py-4 bg-[#1B4B36] rounded-[20px]">
             <h2
               class="lg:text-[48px] md:text-4xl text-2xl text-white font-bold">
               সন্তুষ্ট গ্রাহক
@@ -167,7 +167,7 @@
             </h3>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-[325px] md:w-[500px] md:h-[450px] w-[450px] h-[350px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-auto md:w-[500px] md:h-auto w-[450px] h-auto px-5 py-4 bg-[#1B4B36] rounded-[20px]">
             <h2
               class="lg:text-[48px] md:text-4xl text-2xl text-white font-bold">
               পুনঃক্রয়কারী
@@ -182,7 +182,7 @@
             </h3>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-[325px] md:w-[500px] md:h-[450px] w-[450px] h-[350px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-auto md:w-[500px] md:h-auto w-[450px] h-auto px-5 py-4 bg-[#1B4B36] rounded-[20px]">
             <h2
               class="lg:text-[48px] md:text-4xl text-2xl text-white font-bold">
               পণ্য বিক্রি
@@ -197,7 +197,7 @@
             </h3>
           </div>
           <div
-            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-[325px] md:w-[500px] md:h-[450px] w-[450px] h-[350px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            class="border-solid border-2 border-[#1B4B36] lg:w-[567px] lg:h-auto md:w-[500px] md:h-auto w-[450px] h-auto px-5 py-4 bg-[#1B4B36] rounded-[20px]">
             <h2
               class="lg:text-[48px] md:text-4xl text-2xl text-white font-bold">
               গ্রাহক সন্তুষ্ট
@@ -214,7 +214,7 @@
         </div>
       </div>
       <button
-        class="flex justify-center items-center gap-3 mx-auto mt-5 bg-[#EBFF3D] text-[#1B4B36] px-4 py-2 rounded-3xl text-xl font-bold mb-5 transition duration-150 ease-in-out  hover:scale-105">
+        class="flex justify-center items-center gap-3 mx-auto mt-5 bg-[#EBFF3D] text-[#1B4B36] px-4 py-2 rounded-3xl text-xl font-bold mb-5 transition duration-150 ease-in-out hover:bg-[#EBFF3D] hover:scale-105">
         অর্ডার করতে ক্লিক করুন
         <img src="/assets/images/Vector.png" class="w-7" alt="" />
       </button>
@@ -223,7 +223,7 @@
     <!-- Footer Section -->
     <div>
       <div
-        class="bg-[#0C3200] flex flex-col sm:flex-row justify-around items-center h-32 px-4 sm:px-8">
+        class="bg-[#0C3200] flex flex-col sm:flex-row justify-around items-center lg:h-32 md:h-20 h-auto px-4 sm:px-8">
         <h2 class="text-white flex items-center gap-2 text-center sm:text-left">
           <Icon
             name="fa6-regular:address-card"
@@ -241,7 +241,7 @@
             class="w-6 h-9 text-white rounded-lg" />
         </div>
       </div>
-      <div class="bg-[#0A2900] h-16">
+      <div class="bg-[#0A2900] h-auto">
         <h2 class="text-center text-white pt-5 text-sm">
           "© 2024 All Rights Reserved by BDFunnelBuilder. Unauthorized use
           prohibited."
@@ -251,10 +251,10 @@
   </div>
 </template>
 
-<!-- <script setup>
+<script setup>
   
   </script>
   
   <style scoped>
   
-  </style> -->
+  </style>
