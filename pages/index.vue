@@ -220,7 +220,7 @@
       </button>
     </div>
 
-    <!-- Footer Section -->
+    <!--Added Footer Section -->
     <div>
       <div
         class="bg-[#0C3200] flex flex-col sm:flex-row justify-around items-center lg:h-32 md:h-20 h-auto px-4 sm:px-8">
@@ -245,7 +245,7 @@
         <h2 class="text-center text-white pt-5 text-sm">
           "© 2024 All Rights Reserved by BDFunnelBuilder. Unauthorized use
           prohibited."
-        </h2>
+        </h2> 
       </div>
     </div>
   </div>
