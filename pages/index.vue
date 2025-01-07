@@ -1,12 +1,14 @@
 <template>
   <div>
     <div>
+      <!-- Logo Section -->
       <nav>
         <img
           src="/assets/images/Group.png"
           class="mx-auto w-44 h-24 mt-4"
           alt="" />
       </nav>
+      <!-- Header section -->
       <header>
         <h1
           class="text-center text-[60px] text-[#1B4B36] font-['Hind_Siliguri'] font-bold mt-10">
@@ -39,8 +41,8 @@
     </div>
 
     <!-- Fetures Sections -->
-    <div class="bg-[#FAFFCE] mt-10">
-      <div class="max-w-7xl mx-auto">
+    <div class="bg-[#FAFFCE] mt-10 py-20">
+      <div class="max-w-7xl mx-auto ">
         <div>
           <h1 class="text-[68.64px] text-[#1B4B36] font-bold">
             স্মার্টওয়াচের একাধিক ফিচার <br />
@@ -121,9 +123,52 @@
         </div>
       </div>
       <button
-        class="flex justify-center items-center gap-3 mx-auto mt-5 bg-[#1B4B36] text-[#EBFF3D] px-4 py-2 rounded-3xl text-xl font-bold mb-5 transition duration-700 ease-in-out">
+        class="flex justify-center items-center gap-3 mx-auto mt-5 bg-[#1B4B36] text-[#EBFF3D] px-4 py-2 rounded-3xl text-xl font-bold transition duration-700 ease-in-out">
         অর্ডার করতে ক্লিক করুন
         <img src="/assets/images/Vector2.png" class="w-7" alt="" />
+      </button>
+    </div>
+
+    <!-- Client Experience Section -->
+    <div class="mt-20 mb-20">
+      <div class="max-w-7xl mx-auto">
+        <div class="mt-10 mb-10">
+          <h1 class="text-[62px] text-[#1B4B36] font-bold">
+            আমাদের পণ্য নিয়ে গ্রাহকদের অভিজ্ঞতা
+          </h1>
+        </div>
+        <div class="grid grid-cols-2 gap-4 p-4">
+          <div class="border-solid border-2 border-[#1B4B36] w-[567px] h-[325px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            <h2 class="text-[48px] text-white font-bold">সন্তুষ্ট গ্রাহক</h2>
+            <p class="text-[90px] text-[#EBFF3D] text-end">৩,০০০+</p>
+            <hr />
+            <h3 class="text-xl mt-5 text-white font-semibold">সন্তুষ্ট গ্রাহকরা আমাদের পণ্যের প্রতি বিশ্বাস রেখেছেন।</h3>
+
+          </div>
+          <div class="border-solid border-2 border-[#1B4B36] w-[567px] h-[325px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            <h2 class="text-[48px] text-white font-bold">পুনঃক্রয়কারী</h2>
+            <p class="text-[90px] text-[#EBFF3D] text-end">৪০০+</p>
+            <hr />
+            <h3 class="text-xl mt-5 text-white font-semibold">পুনঃক্রয় করে আমাদের গুণমান নিশ্চিত করে।</h3>
+          </div>
+          <div class="border-solid border-2 border-[#1B4B36] w-[567px] h-[325px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            <h2 class="text-[48px] text-white font-bold">পণ্য বিক্রি</h2>
+            <p class="text-[90px] text-[#EBFF3D] text-end">৫০০০+</p>
+            <hr />
+            <h3 class="text-xl mt-5 text-white font-semibold">৫০০০ পণ্যের বিক্রি আমাদের জনপ্রিয়তা প্রমাণ করে।</h3>
+          </div>
+          <div class="border-solid border-2 border-[#1B4B36] w-[567px] h-[325px] px-5 py-4 bg-[#1B4B36] rounded-[20px]">
+            <h2 class="text-[48px] text-white font-bold">গ্রাহক সন্তুষ্ট</h2>
+            <p class="text-[90px] text-[#EBFF3D] text-end">৯৫%</p>
+            <hr />
+            <h3 class="text-xl mt-5 text-white font-semibold">৯৫% গ্রাহক আমাদের সেবা ও পণ্যে সন্তুষ্ট।</h3>
+          </div>
+        </div>
+      </div>
+      <button
+        class="flex justify-center items-center gap-3 mx-auto mt-5 bg-[#EBFF3D] text-[#1B4B36] px-4 py-2 rounded-3xl text-xl font-bold mb-5 transition duration-700 ease-in-out">
+        অর্ডার করতে ক্লিক করুন
+        <img src="/assets/images/Vector.png" class="w-7" alt="" />
       </button>
     </div>
   </div>
